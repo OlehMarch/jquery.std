@@ -1,0 +1,36 @@
+/* Стили для блока распродажи */
+
+#mycart {
+    width: 835px; 
+    height: 200px; 
+    border: 2px solid #f6f6f6; 
+    margin: 20px;
+    display: block;
+}
+
+
+.forhelmets {
+    width: 835px; height: 200px; margin: 20px; border: 2px solid #f6f6f6; display: block; 
+}
+
+.highlight {
+    border: 2px solid green;
+    
+}
+
+#myclear {
+    text-align: right;  line-height: 38px;
+    display: none;
+}
+
+#checkout {
+    margin-left: 15px; float: right; cursor: pointer; border: none;
+}
+
+#checkForm {
+    display: inline;
+}
+
+#forHelmets div {
+	float: left;
+}

@@ -1,0 +1,19 @@
+<!-- Блок распродажи шлемов -->
+				<h3 id="helmetSale">Распродажа шлемов:</h3>
+				<div id="bound">
+					<div id="forHelmets" class="forhelmets">
+						<div id="helmet1" title="18900"><img src="images/helmets/1.jpg" width="180" height="160" alt="шлем 1" /></div>
+						<div id="helmet2" title="14200"><img src="images/helmets/2.jpg" width="180" height="160" alt="шлем 2" /></div>
+						<div id="helmet3" title="16100"><img src="images/helmets/3.jpg" width="180" height="160" alt="шлем 3" /></div>
+						<div id="helmet4" title="12800"><img src="images/helmets/4.jpg" width="180" height="160" alt="шлем 4" /></div>
+					</div>
+					<h3 id="helmetSale">Корзина:</h3>
+					<div id="mycart">
+					</div>
+					<div id="myclear">Шлемов в вашей корзине: <span id="helmetsCount"><strong>0</strong></span>. Итого по деньгам: <span id="helmetsSumm"><strong>0</strong></span> рублей. 
+						<form id="checkForm" action="check.php">
+							<input type="image" src="images/helmets/checkout.png" id="checkout" />
+						</form>
+					</div>
+				</div>
+<!-- Конец блока распродажи шлемов -->

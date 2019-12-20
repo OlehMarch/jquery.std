@@ -1,0 +1,39 @@
+<div id="opros">
+                                    <div id="radio1">
+                                     <p><strong>У вас есть водительское удостоверение кат. А?</strong></p>
+                                    
+										<input type="radio" id="pr1" value="yes" name="pr1" />
+										<label for="pr1">Да</label>
+										<input type="radio" id="pr2" value="no" name="pr1" />
+										<label for="pr2">Нет</label>
+									</div>
+                                    <div id="radio2">
+                                    <p><strong>Какой у Вас опыт вождения мотоцикла (если есть)?</strong></p>
+										<input type="radio" id="pr3" value="yes" name="pr2" />
+										<label for="pr3">Да</label>
+										<input type="radio" id="pr4" value="no" name="pr2" />
+										<label for="pr4">Нет</label>
+									</div>
+                                    <div id="radio3">
+                                    <p><strong>Вы ездили на скоростях больше 200 км/ч?</strong></p>
+                                  
+										<input type="radio" id="pr5" value="yes" name="pr3" />
+										<label for="pr5">Да</label>
+										<input type="radio" id="pr6" value="no" name="pr3" />
+										<label for="pr6">Нет</label>
+									</div>
+                                    <div id="radio4">
+                                    <p><strong>У вас есть семья?</strong></p>
+										<input type="radio" id="pr7" value="yes" name="pr4" />
+										<label for="pr7">Да</label>
+										<input type="radio" id="pr8" value="no" name="pr4" />
+										<label for="pr8">Нет</label>
+									</div>
+                                    <div id="radio5">
+                                     <p><strong>Вы курите?</strong></p>
+										<input type="radio" id="pr9" value="yes" name="pr5" />
+										<label for="pr9">Да</label>
+										<input type="radio" id="pr10" value="no" name="pr5" />
+										<label for="pr10">Нет</label>
+									</div>
+</div>
