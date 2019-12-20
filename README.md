@@ -1,0 +1,2 @@
+# jquery.std
+JQuery basics
